@@ -4,7 +4,7 @@
 
 Eu sei que muita gente fala sobre isso. Mas é tão importante que mais alguém falando não vai fazer mal:
 
-Seja qual for a sua área, se você atua no mercado de trabalho ou até no meio acadêmico, aprender a falar em inglês é uma das decisões mais importantes que você pode tomar. Mais do importante do que aprender Python ou Java, Excel ou Powerpoint, você tem que aprender a **se comunicar** em inglês.
+Seja qual for a sua área, se você atua no mercado de trabalho ou até no meio acadêmico, aprender a falar em inglês é uma das decisões mais importantes que você pode tomar. Mais importante do que aprender Python ou Java, Excel ou Powerpoint, você tem que aprender a **se comunicar** em inglês.
 
 O meu salário triplicou simplesmente por que eu sabia falar em inglês.
 
