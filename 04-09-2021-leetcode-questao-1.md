@@ -1,7 +1,7 @@
 # LeetCode: Two Sum (soma de dois números)
 
 * Link: https://leetcode.com/problems/two-sum/
-* Vídeo com explicação: 
+* Vídeo com explicação: https://www.youtube.com/watch?v=Aa1tbEXdDqk
 
 ## Pré-requisitos
 * Array
