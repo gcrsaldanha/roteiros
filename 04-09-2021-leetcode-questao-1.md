@@ -43,16 +43,20 @@ A ordem da resposta não importa.
 ```python
 class Solution(object):
     def twoSum(self, nums, target):
-        # enumerate(array) serve para iterar um array pelo índice e valor
-        # i = índice
-        # vi = valor de nums[i]
-        # docs: https://docs.python.org/3/library/functions.html#enumerate
-        for i, vi in enumerate(nums):
-            # iteração a partir de i + 1 (para não comparar o número com ele mesmo)
-            for j, vj in enumerate(nums[i + 1:]):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        # nums = [2,7,11,15]
+        #         0 1 2  3
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                vi = nums[i]
+                vj = nums[j]
+                
                 if vi + vj == target:
                     return [i, j]
-
 ```
 
 ### Solução 2: O(n) utilizando Hashmap
