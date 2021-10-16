@@ -50,7 +50,7 @@ git checkout 1-configurando-o-ambiente
     
     - Exemplo com **VSCode**
         
-        ![Untitled](Desenvolvimento%20orientado%20a%20testes%20com%20Python%20e%20Dj%2000bbbf9cfd604de4810b1b647d3d3882/Untitled.png)
+        ![Untitled](Untitled.png)
         
 - Instalar ***Selenium** e **Chromedriver***
     - Para instalar o **selenium**, basta executar:
@@ -135,7 +135,7 @@ Todos os comandos estão assumindo que o **virtual env está ativado** e que est
     
     - Estrutura de pastas do projeto
         
-        ![Untitled](Desenvolvimento%20orientado%20a%20testes%20com%20Python%20e%20Dj%2000bbbf9cfd604de4810b1b647d3d3882/Untitled%201.png)
+        ![Untitled](Untitled%201.png)
         
     
     Em outra janela, executar o teste novamente:
@@ -335,7 +335,7 @@ No nosso caso, vamos ter apenas uma aplicação (*app*): **Lista de Tarefas**.
     
     - Estrutura do projeto
         
-        ![Untitled](Desenvolvimento%20orientado%20a%20testes%20com%20Python%20e%20Dj%2000bbbf9cfd604de4810b1b647d3d3882/Untitled%202.png)
+        ![Untitled](Untitled%202.png)
         
 - Escrever um *teste unitário (tests.py)*
     
@@ -419,7 +419,7 @@ No nosso caso, vamos ter apenas uma aplicação (*app*): **Lista de Tarefas**.
     
 - Implementação (Red, Green, Refactor)
     
-    ![Untitled](Desenvolvimento%20orientado%20a%20testes%20com%20Python%20e%20Dj%2000bbbf9cfd604de4810b1b647d3d3882/Untitled%203.png)
+    ![Untitled](Untitled%203.png)
     
     > *The requested resource was not found on this server.*
     > 
@@ -829,7 +829,7 @@ Django busca pelo `template_name` na pasta `templates` dos apps. Mas precisamos 
         - Podemos olhar os *logs* do servidor.
         - **Ou, abrir a aplicação!** `http://localhost:8000`
             
-            ![Untitled](Desenvolvimento%20orientado%20a%20testes%20com%20Python%20e%20Dj%2000bbbf9cfd604de4810b1b647d3d3882/Untitled%204.png)
+            ![Untitled](Untitled%204.png)
             
             CSRF *Verification*: verificar que uma requisição pertence ao usuário que a enviou.
             
